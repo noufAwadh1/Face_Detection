@@ -1,5 +1,5 @@
 # Face_Detection
-This code is use for detect faces from image
+This code is used for detect faces from image
 # installation:
 * python3.8.2 
 * openCV library 
