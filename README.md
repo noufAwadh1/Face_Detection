@@ -4,4 +4,8 @@ this code is use for face detection from image
 -python3.8.2 
 
 -openCV library 
+# Code:
+`scale_factor`: This parameter specifies the factor by which the image is scaled down.
+
+eg:- if this value is 1.03, then the image is scaled down by 3%
 
